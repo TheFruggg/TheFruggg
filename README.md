@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hamish
+# Frug
 
-**SOC Analyst · Security Researcher · Barcelona**
+**SOC Analyst · Security Researcher**
 
 I work in cybersecurity with a focus on threat detection, secure software development, and applied security research.
-Currently a SOC Analyst at N26 (Barcelona); previously a Cybersecurity Engineer at Texaport (Edinburgh).
+Experience in Cyber SOC & Cybersecurity Engineering.
 
 My research interests sit at the intersection of mobile security, overlay networking, and cryptographic protocol analysis.
 
