@@ -37,7 +37,7 @@ Serverless, peer-to-peer, end-to-end encrypted Android messaging application.
 
 ---
 
-### [ARES 2.0]([private — link pending)*](https://github.com/TheFruggg/ARES_2.0)
+### [ARES 2.0](https://github.com/TheFruggg/ARES_2.0)
 Advanced Reconnaissance & Event System — a self-hosted, real-time geopolitical and cybersecurity threat intelligence dashboard.
 
 - Ingests and normalises open-source data streams: 20+ RSS/Atom feeds, ADS-B military flight transponders (OpenSky + adsb.fi), AIS vessel tracking, GDELT geopolitical events, and NVD CVE feeds.
